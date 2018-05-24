@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app1"
+id = "com.phonegap.app5"
 version = "1.0.0">
 
-<name> app5-Notificaciones del dispositivo </name>
+<name> app5-Beep y vibrar</name>
 
 <description>
-Aplicacion que realiza la Vibracion y Beep del dispositivo
+Aplicacion que realiza beep y vibrar
 </description>
 
 <author href= "https://buil.phonegap.com" email= "less_wreste15@hotmail.com">
